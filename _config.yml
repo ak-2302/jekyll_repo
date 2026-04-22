@@ -1,0 +1,10 @@
+title: jekyll_repo
+description: GitHub Pages で公開する Jekyll サイト
+theme: minima
+lang: ja
+
+url: "https://ak-2302.github.io"
+baseurl: "/jekyll_repo"
+
+markdown: kramdown
+permalink: pretty
