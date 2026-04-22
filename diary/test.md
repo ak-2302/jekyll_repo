@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Hello World
-permalink: /diary/test/
 ---
 
 # Hello World!
